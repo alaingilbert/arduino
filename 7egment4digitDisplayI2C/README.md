@@ -1,0 +1,3 @@
+- Resistors should be between 1k to 10k. 5.6k recommended.
+- Put the libraries folders into the Arduino libraries folder.
+- Upload the sketch. Should work.
